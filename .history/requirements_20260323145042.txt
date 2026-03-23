@@ -1,0 +1,9 @@
+# Eric_Alice_t2v - ComfyUI nodes for Alice T2V 14B MoE
+#
+# These are the ADDITIONAL dependencies beyond standard ComfyUI.
+# ComfyUI already provides: torch, transformers, diffusers, numpy, pillow, etc.
+
+easydict
+
+# The alice Python package is vendored (not installed via pip).
+# Run setup_vendor.py after cloning to set it up.
