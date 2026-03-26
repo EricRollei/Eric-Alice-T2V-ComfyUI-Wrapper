@@ -8,7 +8,7 @@ in **4 inference steps** via score-regularized consistency distillation (rCM).
 
 ## Example Output
 
-[![Sample Output](workflows/Alice_00025.png)](https://youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Sample Output](workflows/Alice_00025.png)](https://youtu.be/BjSJEINrxgg)
 
 *Click the image to watch the sample video on YouTube.*
 
