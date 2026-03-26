@@ -6,6 +6,22 @@ in **4 inference steps** via score-regularized consistency distillation (rCM).
 
 ---
 
+## Example Output
+
+[![Sample Output](workflows/Alice_00025.png)](https://youtube.com/watch?v=YOUR_VIDEO_ID)
+
+*Click the image to watch the sample video on YouTube.*
+
+---
+
+## Example Workflow
+
+![Workflow Screenshot](workflows/workflow.png)
+
+📥 **[Download the example workflow JSON](workflows/Alice-T2V-Eric-326.json)** - Drag and drop into ComfyUI to get started quickly!
+
+---
+
 ## Nodes
 
 | Node | Description |

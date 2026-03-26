@@ -97,6 +97,9 @@ vendor/alice/
 *.pt
 *.pth
 
+# Large video files (upload to YouTube instead)
+*.mp4
+
 # Temporary files
 *.tmp
 *.temp
